@@ -1,0 +1,1 @@
+The model fits well sampled countries: the United States, Kuwait and South Africa. It is weaker Australia, perhaps because this country has a particularly intensive emission profile, similar to China.
